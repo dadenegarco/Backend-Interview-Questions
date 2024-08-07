@@ -1,9 +1,4 @@
-<style>
-.rtl {
-    direction: rtl;
-}
-</style>
-<div class="rtl">
+<div style="direction:rtl;">
 <h1>
 سند مصاحبه فنی - شرکت داده‌نگار
 </h1>
