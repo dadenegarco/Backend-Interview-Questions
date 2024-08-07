@@ -38,7 +38,7 @@
   5. ایجاد یک تسک Periodic برای آرشیو کردن پرسشنامه های قدیمی
 </ol>
 <ol>
-  6. Dockerize کردن سرویس های مورد استفاده با docker-compose
+  6. و Dockerize کردن سرویس های مورد استفاده با docker-compose
 </ol>
 </h3>
 <h2>
